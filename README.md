@@ -92,7 +92,7 @@ dotnet tool install --global dotnet-ef
 
 1. **Clona el repositorio**:
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/Lorainnenava/CleanArchitectureBase.Net.git
 ```
 2. Abre la solución `MyApp.sln`
 3. **Restaura los paquetes NuGet:**
